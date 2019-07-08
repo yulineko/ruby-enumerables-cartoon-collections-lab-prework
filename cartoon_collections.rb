@@ -14,7 +14,8 @@ end
 
 def long_planeteer_calls(planeteer_calls) # code an argument here
   # Your code here
-  planeteer_calls.any? do ||
+  planeteer_calls.any? do |element|
+    
 end
 
 def find_the_cheese# code an argument here
